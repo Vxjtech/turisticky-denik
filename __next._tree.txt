@@ -1,2 +1,2 @@
-:HL["/turisticky-denik/_next/static/chunks/1s1mn6jaln2vk.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"FslNWMSxLk9sY02vTR9og"}
+:HL["/turisticky-denik/_next/static/chunks/3h95p0qi_aq-d.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"EkEO14z975gPsdE789zNp"}
