@@ -1,2 +1,2 @@
-:HL["/turisticky-denik/_next/static/chunks/3h95p0qi_aq-d.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"muj-denik","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"EkEO14z975gPsdE789zNp"}
+:HL["/turisticky-denik/_next/static/chunks/3oi-_s0apc_g8.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"muj-denik","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"hPrVew2wh1PIq4XQtD595"}
